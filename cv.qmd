@@ -49,8 +49,8 @@ tibble::tribble(
   #
   "Data scientist, backend engineer", "Madlan / Localize.city", "2014-2023",
   c("Took part in the startup from early stages; recruited and mentored team members.",
-    "Worked on data problems in diverse fields including urban spatio-temporal modeling, real-estate pricing, NLP, and recommendation systems. Built data analytics tooling and infrastructure.",
-    "Used diverse technologies (Clojure, Java, R, Python, PyTorch, Tensorflow, Stan, PyMC, SQL, QGIS, etc.)."),
+    "Worked on data problems in diverse fields including urban spatio-temporal modeling, real-estate pricing, NLP, and recommendation systems.",
+"Built data analytics tooling and infrastructure."),
   #
   "Machine learning researcher and engineer", "Katros (fincance-related startup)", "2012-2014",
   c("First employee, involved in critical tasks at the team.",
