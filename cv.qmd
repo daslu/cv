@@ -33,7 +33,7 @@ cvevents <- function(tbl, when, what, where, details) {
 
 # Summary
 
-A Statistician/Probabilist and Clojure engineer. Organizing [Scicloj](https://scicloj.github.io/), the group building Clojure's data science stack. 
+A Mathematician and software engineer. Organizing [Scicloj](https://scicloj.github.io/), the group building Clojure's data science stack. 
 
 # Experience
 
@@ -44,7 +44,7 @@ tibble::tribble(
   ~role, ~institution, ~dates, ~tasks,
   #
   "Open-source developer and organizer", "Scicloj", "2019-persent",
-  c("Co-maintaining open-source projects, mainly Kindly, Clay, Notespace, ClojisR, and the Scicloj website.",
+  c("Co-maintaining open-source projects. Especially: Kindly, Clay, Notespace, ClojisR, and the Scicloj website.",
     "Running dev groups, study groups, and workshops; mentoring newcomers."),
   #
   "Data scientist, backend engineer", "Madlan / Localize.city", "2014-2023",
