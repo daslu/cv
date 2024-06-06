@@ -33,7 +33,7 @@ cvevents <- function(tbl, when, what, where, details) {
 
 # Summary
 
-A Statistician/Probabilist and Clojure engineer. In the last few years, focused on organizing [Scicloj](https://scicloj.github.io/), an open-source group building Clojure's data science stack. 
+A Statistician/Probabilist and Clojure engineer. Organizing [Scicloj](https://scicloj.github.io/), the group building Clojure's data science stack. 
 
 # Experience
 
@@ -43,14 +43,14 @@ A Statistician/Probabilist and Clojure engineer. In the last few years, focused 
 tibble::tribble(
   ~role, ~institution, ~dates, ~tasks,
   #
-  "Open-source developer and organizer", "funded by Clojurists Together", "Feb-Apr 2024",
-  c("During this quarter, my regular activity at Scicloj was selected to supported by the Clojurists Together organization."),
+  "Open-source developer and organizer", "Scicloj", "2019-persent",
+  c("Co-maintaining open-source projects, mainly Kindly, Clay, Notespace, ClojisR, and the Scicloj website.",
+    "Running dev groups, study groups, and workshops; mentoring newcomers."),
   #
   "Data scientist, backend engineer", "Madlan / Localize.city", "2014-2023",
   c("Took part in the startup from early stages; recruited and mentored team members.",
-    "Worked on data problems in diverse fields including urban spatio-temporal modeling, real-estate pricing, NLP, and recommendation systems.",
-    "Used diverse technologies (Clojure, Java, R, Python, Tensorflow Probability, Stan, PyMC, SQL, etc.).",
-    "Built data analytics tooling and infrastructure."),
+    "Worked on data problems in diverse fields including urban spatio-temporal modeling, real-estate pricing, NLP, and recommendation systems. Built data analytics tooling and infrastructure.",
+    "Used diverse technologies (Clojure, Java, R, Python, PyTorch, Tensorflow, Stan, PyMC, SQL, QGIS, etc.)."),
   #
   "Machine learning researcher and engineer", "Katros (fincance-related startup)", "2012-2014",
   c("First employee, involved in critical tasks at the team.",
@@ -92,10 +92,6 @@ c("Thesis: Restrictions for Thin Young Diagrams (in the fields of representation
 #| output: asis
 tibble::tribble(
   ~role, ~org, ~dates, ~details,
-  "Co-organizer", "Scicloj", "2019-persent",
-  c("Co-maintaining open-source projects, mainly Kindly, Clay, Notespace, ClojisR, and the Scicloj website.",
-    "Running dev groups, study groups, and workshops; mentoring newcomers.",
-    "Organizing Jointprob, a study community for Bayesian statistics and probabilistic modeling."),
   "Community organizer and team coordinator", "various local movements for social action", "2008-2018",
   "") |>
   cvevents(when = "dates", what = "role", where = "org", details = "details")
@@ -108,6 +104,6 @@ $*$ Sound background in math, particularly probability theory & stochastic proce
 $*$ Time series analysis, spatial analysis, Bayesian methods, random simulations,
 machine learning, data visualization, recommendation systems, GIS.
 
-$*$ Clojure, R, Python, C, Java; Tensorflow Probability, Stan; PyMC; spaCy; Clojurescript, Javascript; Linux shell; DVC; Docker; PostgreSQL, etc.
+$*$ Clojure, R, Python, C, Java; Tensorflow, PyTorch, Tensorflow Probability, Stan, PyMC; spaCy; Clojurescript, Javascript; Linux shell; DVC; Docker; PostgreSQL; QGIS, etc.
 
 $*$ Teaching and mentoring in diverse topics.
