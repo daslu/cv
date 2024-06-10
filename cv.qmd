@@ -49,7 +49,7 @@ tibble::tribble(
   #
   "Data scientist, backend engineer", "Madlan / Localize.city", "2014-2023",
   c("Took part in the startup from early stages; recruited and mentored team members.",
-    "Worked on data problems in diverse fields including urban spatio-temporal modeling, real-estate pricing, NLP, and recommendation systems.",
+    "Worked on data problems in diverse fields including urban spatio-temporal modeling, real-estate pricing, NLP, deep learning, and recommendation systems.",
 "Built data analytics tooling and infrastructure."),
   #
   "Machine learning researcher and engineer", "Katros (fincance-related startup)", "2012-2014",
@@ -104,6 +104,6 @@ $*$ Sound background in math, particularly probability theory & stochastic proce
 $*$ Time series analysis, spatial analysis, Bayesian methods, random simulations,
 machine learning, data visualization, recommendation systems, GIS.
 
-$*$ Clojure, R, Python, C, Java; Tensorflow, PyTorch, Tensorflow Probability, Stan, PyMC; spaCy; Clojurescript, Javascript; Linux shell; DVC; Docker; PostgreSQL; QGIS, etc.
+$*$ Clojure, R, Python, C, Java; Tensorflow, PyTorch, BERT; Tensorflow Probability, Stan, PyMC; spaCy; Clojurescript, Javascript; Linux shell; DVC; Docker; PostgreSQL; QGIS, etc.
 
 $*$ Teaching and mentoring in diverse topics.
