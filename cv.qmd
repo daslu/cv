@@ -7,8 +7,11 @@ cvcolor: 58748F #without `#`
 cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
 cvmeta:
   - title: Status
-    left: Community organizer at Scicloj
+    left: Data-science consultant; Community organizer at Scicloj
     right: github.com/daslu
+  - title: Location
+    left: Ramat Gan, Israel
+    right: daniel.slutsky@gmail.com 
 execute:
   echo: false
 ---
@@ -33,7 +36,7 @@ cvevents <- function(tbl, when, what, where, details) {
 
 # Summary
 
-A Mathematician and software engineer. Organizing [Scicloj](https://scicloj.github.io/), the group building Clojure's data science toolkit. 
+A Mathematician and software engineer. Organizer at [Scicloj](https://scicloj.github.io/), the group building Clojure's data science toolkit. 
 
 # Experience
 
@@ -65,8 +68,7 @@ tibble::tribble(
   c("Responsible for research projects analyzing financial time series"),
   #
   "Algorithms researcher", "Taboola", "2007-2010",
-  c("Member of the founding team.",
-    "Developed recommendation systems using NLP, collaborative filtering, and machine learning.")) |>
+  c("Founding team member. Built recommendation systems using NLP, collaborative filtering, and machine learning.")) |>
   cvevents(when = "dates", what = "role", where = "institution", details = "tasks")
 ```
 
