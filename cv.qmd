@@ -34,7 +34,7 @@ cvevents <- function(tbl, when, what, where, details) {
 }
 ```
 
-Hello. I'm Daniel, a mathematician and a software engineer. In the last few years, I've been organizing the [Scicloj](https://scicloj.github.io/) open-source group, where we built a data science toolkit for the Clojure programming lagnuage. The fruits of our work were demonstrated at the [SciNoj Light](https://scicloj.github.io/scinoj-light-1/) conference (May 2025). I am now opening up to explore new challenges.
+Hello. I'm Daniel, a mathematician and a programmer. I've been organizing the [Scicloj](https://scicloj.github.io/) open-source group, where we build a data science toolkit for the Clojure programming lagnuage. The fruits of our work were demonstrated at the [SciNoj Light](https://scicloj.github.io/scinoj-light-1/) conference (May 2025). I am now opening up to new challenges.
 
 # Experience
 
